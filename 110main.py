@@ -34,6 +34,7 @@ CCTV_NAME_FULL = {
     "CCTV13": "CCTV13新闻",
     "CCTV14": "CCTV14少儿",
     "CCTV15": "CCTV15音乐",
+    "CCTV16": "CCTV16奥林匹克",
     "CCTV17": "CCTV17农业农村"
 }
 
