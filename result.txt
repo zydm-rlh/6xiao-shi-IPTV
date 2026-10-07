@@ -2567,4 +2567,4 @@ TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe$LR•IPV4•29『线�
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8$LR•IPV4•29『线路1』
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8$LR•IPV4•29『线路2』
 灵鹿整合,#genre#
-20261007 12:31,https://p.666888666.kdns.fr/视频/1/20260415.mp4
+20261007 13:01,https://p.666888666.kdns.fr/视频/1/20260415.mp4
