@@ -9,16 +9,14 @@ headers = {
 }
 
 # 采集源地址
-SOURCES = [
-    "https://wget.la/https://github.com/yanghanhanyingshi/JYYS/blob/main/live.txt",
-    "https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
-    "https://dianshi.xinlingmiyu520.workers.dev/abc123",
-    "https://live.445569.xyz/live.m3u",
-    "http://wangziduoqing.com/yuan/zb.txt",
-    "https://gh-proxy.org/https://github.com/yanghanhanyingshi/JYYS/blob/main/live_sources.m3u",
-    "https://raw.githubusercontent.com/wymstar/ttv/refs/heads/main/live.txt",
-    "https://tv.88888888888888888888888888888888888.ccwu.cc/live.m3u",
-    "https://g.blfrp.cn/https://raw.githubusercontent.com/cyh92/live/refs/heads/main/source/migu.m3u"
+SOURCES = [ 
+    "https://v4.gh-proxy.org/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
+    "https://v4.gh-proxy.org/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u"
+    "https://v4.gh-proxy.org/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"
+    "https://v4.gh-proxy.org/https://raw.githubusercontent.com/XU-Boqing/iptv-dedup/main/live_lite_dedup.m3u"
+    "https://live.zbds.top/tv/iptv4.m3u"
+    "https://iptv-org.github.io/iptv/languages/zho.m3u"
+    "https://iptv.852851.xyz/sub/JRTpy7FfgNKk/playlist.m3u"   
 ]
 
 # CCTV完整别名映射
