@@ -10,13 +10,9 @@ headers = {
 
 # 采集源地址
 SOURCES = [
-    "https://v4.gh-proxy.org/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
-    "https://v4.gh-proxy.org/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u"
-    "https://v4.gh-proxy.org/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"
+    "https://ran.zydmrlh.ccwu.cc/"
     "https://v4.gh-proxy.org/https://raw.githubusercontent.com/XU-Boqing/iptv-dedup/main/live_lite_dedup.m3u"
-    "https://live.zbds.top/tv/iptv4.m3u"
-    "https://iptv-org.github.io/iptv/languages/zho.m3u"
-    "https://iptv.852851.xyz/sub/JRTpy7FfgNKk/playlist.m3u"   
+    "https://live.zbds.top/tv/iptv4.m3u" 
 ]
 
 # CCTV完整别名映射
